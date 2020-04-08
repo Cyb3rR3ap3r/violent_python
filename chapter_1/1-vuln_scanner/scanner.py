@@ -3,6 +3,7 @@
 import socket
 
 # Uses HTB - Devel retired box (10.10.10.5)
+# This is not complete.
 
 def banner():
     try:
